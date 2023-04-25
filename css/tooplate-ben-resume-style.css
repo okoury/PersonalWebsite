@@ -33,8 +33,8 @@ https://www.tooplate.com/view/2120-ben-resume
   :root {
     --primary-color:        #ffd500;
     --white-color:          #ffffff;
-    --dark-color:           #000000; /* changed to black */
-    --menu-bg-color:        #212529;
+    --dark-color:           #7EB8E6; /* changed to light blue */
+    --menu-bg-color:        #7EB8E6;
   
     --gray-color:           #040404;
     --p-color:              #060606;
