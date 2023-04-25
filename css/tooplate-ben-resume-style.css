@@ -31,10 +31,10 @@ https://www.tooplate.com/view/2120-ben-resume
   }
 
   :root {
-    --primary-color:        #ffd500;
+    --primary-color:        #D0D0D0;
     --white-color:          #ffffff;
-    --dark-color:           #000000; /* changed to black */
-    --menu-bg-color:        #212529;
+    --dark-color:           #040404; /* changed to light blue */
+    --menu-bg-color:        #7EB8E6;
   
     --gray-color:           #040404;
     --p-color:              #060606;
@@ -631,4 +631,8 @@ https://www.tooplate.com/view/2120-ben-resume
       font-size: 20px;
       padding: 0.3rem 2rem 0.6rem 2rem;
     }
+  }
+  img {
+    width: 100pxß;
+    height: 100px;
   }
