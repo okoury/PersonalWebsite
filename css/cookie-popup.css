@@ -3,8 +3,8 @@
   position: fixed;
   bottom: 0;
   left: 0;
-  background-color: #f2f2f2; /* lighter background color */
-  color: #000; /* black text */
+  background-color: #f2f2f2;
+  color: #000;
   padding: 2rem;
   text-align: center;
   font-size: 1.25rem;
@@ -14,18 +14,18 @@
 }
 
 #cookie-popup a {
-  color: #000; /* black link text */
+  color: #0080ff; /* light blue link text */
 }
 
 #cookie-popup a:hover {
-  color: #f2f2f2; /* lighter link text on hover */
+  color: #f2f2f2;
   text-decoration: underline;
 }
 
 #accept-cookies {
   font-family: "Source Code Pro", monospace;
   background-color: #fff;
-  color: #000; /* black button text */
+  color: #000;
   border: none;
   padding: 5px 10px;
   font-size: 1.25rem;
@@ -33,7 +33,7 @@
 }
 
 #accept-cookies:hover {
-  background-color: #f2f2f2; /* lighter button background on hover */
-  color: #000; /* black button text on hover */
+  background-color: #f2f2f2;
+  color: #000;
   transition: 0.4s;
 }
