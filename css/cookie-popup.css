@@ -1,14 +1,10 @@
-/* Cookie popup styles */
-
-@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
-
 #cookie-popup {
   font-family: "Source Code Pro", monospace;
   position: fixed;
   bottom: 0;
   left: 0;
-  background-color: #333;
-  color: #fff;
+  background-color: #f2f2f2; /* lighter background color */
+  color: #000; /* black text */
   padding: 2rem;
   text-align: center;
   font-size: 1.25rem;
@@ -18,18 +14,18 @@
 }
 
 #cookie-popup a {
-  color: #fff;
+  color: #000; /* black link text */
 }
 
 #cookie-popup a:hover {
-  color: lightpink;
+  color: #f2f2f2; /* lighter link text on hover */
   text-decoration: underline;
 }
 
 #accept-cookies {
   font-family: "Source Code Pro", monospace;
   background-color: #fff;
-  color: #333;
+  color: #000; /* black button text */
   border: none;
   padding: 5px 10px;
   font-size: 1.25rem;
@@ -37,6 +33,7 @@
 }
 
 #accept-cookies:hover {
-  background-color: lightpink;
+  background-color: #f2f2f2; /* lighter button background on hover */
+  color: #000; /* black button text on hover */
   transition: 0.4s;
 }
