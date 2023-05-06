@@ -1,14 +1,14 @@
-# Personal Website
+# 🌟 Personal Website
 
 A custom-built personal website showcasing accomplishments, resume, and projects. The website is created using various web development technologies and tools to provide an informative, easy-to-read, and interesting experience.
 
-## Table of Contents
+## 📚 Table of Contents
 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Skills & Technologies](#skills--technologies)
 
-## Features
+## 🎨 Features
 
 - Responsive design with Bootstrap
 - Custom favicons
@@ -19,7 +19,7 @@ A custom-built personal website showcasing accomplishments, resume, and projects
 - Hosted on Microsoft Azure as a Static Web App
 - Custom Domain Integration
 
-## Getting Started
+## 🚀 Getting Started
 
 To run the website locally, follow these instructions:
 
@@ -37,7 +37,7 @@ OR
 
 go to https://owenkoury.com/ 
 
-## Skills & Technologies
+## 💻 Skills & Technologies
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
