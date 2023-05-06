@@ -2,8 +2,6 @@
 
 A custom-built personal website showcasing accomplishments, resume, and projects. The website is created using various web development technologies and tools to provide an informative, easy-to-read, and interesting experience.
 
-![Website Preview](website_preview.png)
-
 ## Table of Contents
 
 - [Features](#features)
@@ -27,14 +25,17 @@ To run the website locally, follow these instructions:
 
 1. Clone the repository:
 
-git clone https://github.com/username/personal-website.git
+git clone https://github.com/okoury/PersonalWebsite.git
 
 2. Navigate to the project folder:
 
-cd personal-website
-
+cd PersonalWebsite
 
 3. Open `index.html` in your favorite web browser.
+
+OR
+
+go to https://owenkoury.com/ 
 
 ## Skills & Technologies
 
